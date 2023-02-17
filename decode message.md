@@ -1,4 +1,4 @@
-# 1. Two Sum
+# Decode message
 # https://leetcode.com/problems/decode-the-message/
 
 ```py
